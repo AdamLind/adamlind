@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi! I'm Adam Lind.
 
-### About Me:
-- Currently working on my degree in Software Development through BYU-Idaho.
-
-### My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
-
 
 ## 🚀 About Me
 - 🎓 Software Development student at BYU-Idaho
@@ -36,7 +30,7 @@ Here are some ideas to get you started:
 ### **Frontend**
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwindcss)](https://skillicons.dev)
  
-### **Backend & Database & Tools**
+### **Database & Tools**
 [![Backend & Tools](https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,prisma,git,vscode,vercel)](https://skillicons.dev)
 
  
