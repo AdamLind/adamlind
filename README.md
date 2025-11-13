@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 - Software architecture and design patterns
  
 ## 📊 This Week I Spent My Time On:
-React Native  ████████████░░░░   65%
-PostgreSQL    ███░░░░░░░░░░░░░   15%
-Tailwind CSS  ██░░░░░░░░░░░░░░   12%
-C#            █░░░░░░░░░░░░░░░    8%
+*React Native  ████████████░░░░   65%
+*PostgreSQL    ███░░░░░░░░░░░░░   15%
+*Tailwind CSS  ██░░░░░░░░░░░░░░   12%
+*C#            █░░░░░░░░░░░░░░░    8%
  
 🎯 2025 Goals
 Master Next.js and React Server Components
