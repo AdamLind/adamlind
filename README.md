@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 - Software architecture and design patterns
  
 ## 📊 This Week I Spent My Time On:
-```text
 React Native  ████████████░░░░   65%
 PostgreSQL    ███░░░░░░░░░░░░░   15%
 Tailwind CSS  ██░░░░░░░░░░░░░░   12%
@@ -64,6 +63,5 @@ Master Next.js and React Server Components
 Build 3 full-stack projects
 Contribute to open source projects
 Learn advanced database optimization
-Explore cloud deployment and DevOps
 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/adam-lind-489474236/)
