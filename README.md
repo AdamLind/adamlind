@@ -34,11 +34,9 @@ Here are some ideas to get you started:
 [![Backend & Tools](https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,prisma,git,vscode,vercel)](https://skillicons.dev)
 
  
-## 📈 GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamlind&show_icons=true&theme=dark&a…
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamlind&layout=compact&langs_count=7&theme=dark%22/>
-</div>
+## My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamLind&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ## 🔥 Current Projects
 - 🛒 **Artisan Marketplace** - Full-stack e-commerce platform for handmade goods
