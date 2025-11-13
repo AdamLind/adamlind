@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AdamLind/adamlind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi! I'm Adam Lind.
+## Welcome to my profile!
+
+
+### About Me:
+- Currently working on my degree in Software Development.
+- Have been software engineering for over 5 years!
+
+### My Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
