@@ -1,26 +1,13 @@
-<!--
-**AdamLind/adamlind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi! I'm Adam Lind.
 
 
-## 🚀 About Me
+## About Me
 - 🎓 Software Development student at BYU-Idaho
 - 💻 Full-stack developer with experience across multiple languages and frameworks
 - 🌱 Currently working on Next.js and React Native projects and expanding my development skills
 - 🎯 Building e-commerce platforms and exploring modern development practices
 - ⚡ Passionate about creating efficient, scalable solutions
+- 💼 [LinkedIn](https://www.linkedin.com/in/adam-lind-489474236/)
  
 ## 🛠️ Tech Stack
  
@@ -63,4 +50,3 @@ Here are some ideas to get you started:
 * Build 3 full-stack projects
 * Contribute to open source projects
 * Learn advanced database optimization
-* 💼 [LinkedIn](https://www.linkedin.com/in/adam-lind-489474236/)
