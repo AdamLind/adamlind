@@ -34,10 +34,9 @@
     * Full-stack e-commerce platform for handmade goods.
     * **Tech Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma.
     * **Features:** Product listings, secure user authentication, seller dashboards.
-* **React Native/Python Automation**
-    * Developing mobile applications and utility scripts for automation and data processing.
-* **C#/.NET Integration**
-    * Exploring API design using C# and the .NET framework for high-performance microservices.
+* **React Native Mobile App**
+    * Developing mobile application for date & activity planning
+    * **Tech Stack:** React Native, Typescript, Nativewind CSS, PostgreSQL, Docker, Expo
  
 ## 💡 Learning & Goals
 * **Advanced Next.js:** Mastering React Server Components and data fetching patterns.
