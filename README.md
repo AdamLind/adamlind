@@ -19,7 +19,7 @@
 [![Backend & Runtimes](https://skillicons.dev/icons?i=nodejs,dotnet,graphql,apollo)](https://skillicons.dev)
 
 ### 💾 Databases & ORMs
-[![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma)](https://skillicons.dev)
+[![Databases & ORMs](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma&v=1)](https://skillicons.dev)
 
 ### ☁️ Tools & DevOps
 [![Tools & DevOps](https://skillicons.dev/icons?i=git,vscode,npm,docker,vercel)](https://skillicons.dev)
