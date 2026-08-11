@@ -1,7 +1,8 @@
 # Hi! I'm Adam Lind 👋
 
 ## 👨‍💻 About Me
-* Software Development student at **BYU-Idaho**.
+* Software Developer at **Hilo Aviation**.
+* Software Development grad from **BYU-Idaho**.
 * Full-stack developer specializing in the **JavaScript/TypeScript ecosystem** and **.NET/C#**.
 * Focused on building scalable **Next.js** and **React Native** applications.
 * Passionate about creating **efficient, performance-driven solutions**.
